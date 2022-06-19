@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Blockchain
 - ✨ I'm interested in CTF, Networking and Hacking stuff
-- 🌱 I’m currently learning C++, Python, Javascript
+- 🌱 I’m currently studying Information Systems at University of Information Technology - HCM National University 
 - 💬 Ask me about coding exercises or any IT problems
 - 📫 How to reach me: You can contact me on [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0ng-duy-297a54240/)
 
